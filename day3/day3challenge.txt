@@ -1,0 +1,3 @@
+In this day3 i have learned how to create a folder and file in repo using  git interface.Mean while i have clone the remote repo to the local machine
+ ---->git command
+   Git clone url
